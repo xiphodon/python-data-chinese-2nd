@@ -25,6 +25,9 @@
 ## Jupyter Notebooks:
 
 
+快速阅读（tree）(https://nbviewer.jupyter.org/github/xiphodon/python-data-chinese-2nd/tree/master/)
+
+
 * [CHAPTER 1：Preliminaries（预备知识）](http://nbviewer.jupyter.org/github/xiphodon/python-data-chinese-2nd/tree/master/Chapter-01/)
   - [1.1 What Is This Book About?（这本书是关于什么的）](http://nbviewer.jupyter.org/github/xiphodon/python-data-chinese-2nd/blob/master/Chapter-01/1.1%20What%20Is%20This%20Book%20About%3F%EF%BC%88%E8%BF%99%E6%9C%AC%E4%B9%A6%E6%98%AF%E5%85%B3%E4%BA%8E%E4%BB%80%E4%B9%88%E7%9A%84%EF%BC%89.ipynb)
   - [1.2 Why Python for Data Analysis?（为什么使用Python做数据分析）](http://nbviewer.jupyter.org/github/xiphodon/python-data-chinese-2nd/blob/master/Chapter-01/1.2%20Why%20Python%20for%20Data%20Analysis%3F%EF%BC%88%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%BF%E7%94%A8Python%E5%81%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%89.ipynb)
