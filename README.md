@@ -25,7 +25,7 @@
 ## Jupyter Notebooks:
 
 
-快速阅读（tree）(https://nbviewer.jupyter.org/github/xiphodon/python-data-chinese-2nd/tree/master/)
+[快速阅读（jupyter notebook tree）](https://nbviewer.jupyter.org/github/xiphodon/python-data-chinese-2nd/tree/master/)
 
 
 * [CHAPTER 1：Preliminaries（预备知识）](http://nbviewer.jupyter.org/github/xiphodon/python-data-chinese-2nd/tree/master/Chapter-01/)
